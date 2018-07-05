@@ -316,16 +316,6 @@
             "module": "intelmq.bots.parsers.blueliv.parser_crimeserver",
             "parameters": {}
         },
-        "Botscout": {
-             "description": "Botscout Parser is the bot responsible to parse the report and sanitize the information.",
-             "module": "intelmq.bots.parsers.botscout.parser",
-             "parameters": {}
-         },
-        "Cedia": {
-             "description": "Cedia Parser is the bot responsible to parse the report and sanitize the information.",
-             "module": "intelmq.bots.parsers.cedia.parser",
-             "parameters": {}
-        }, 
         "CI Army": {
             "description": "CI Army Parser is the bot responsible to parse the report and sanitize the information.",
             "module": "intelmq.bots.parsers.ci_army.parser",
@@ -336,11 +326,6 @@
             "module": "intelmq.bots.parsers.cleanmx.parser",
             "parameters": {}
         },
-        "Cruzit": {
-             "description": "Cruzit is the bot responsible to parse the report and sanitize the information.",
-             "module": "intelmq.bots.parsers.cruzit.parser",
-             "parameters": {}
-         },
         "Cybercrime Ccam": {
             "description": "Cybercrime is the bot responsible to parse the report and sanitize the information.",
             "module": "intelmq.bots.parsers.cybercrime_ccam.parser",
@@ -582,7 +567,6 @@
              "module": "intelmq.bots.parsers.stop_forum_spam.parser",
              "parameters": {}
          },
-
         "Sucuri Malware": {
             "description": "Sucuri Malware parser parses the list of Hidden Iframes and Conditional redirections from Sucuri.",
             "module": "intelmq.bots.parsers.sucuri.parser",
