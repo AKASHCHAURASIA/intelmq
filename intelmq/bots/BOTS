@@ -499,6 +499,11 @@
             "module": "intelmq.bots.parsers.malwareurl2.parser",
             "parameters": {}
         },
+        "Manitu": {
+            "description": "Manitu Parser is the bot responsible to parse the report and sanitize the information.",
+            "module": "intelmq.bots.parsers.manitu.parser",
+            "parameters": {}
+        },
         "Maxmind": {
             "description": "Maxmind is the bot responsible to parse the report and sanitize the information.",
             "module": "intelmq.bots.parsers.maxmind.parser",
